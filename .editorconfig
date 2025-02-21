@@ -1,0 +1,2 @@
+[*.{kt,kts}]
+ktlint_disabled_rules=standard:no-wildcard-imports,standard:annotation
